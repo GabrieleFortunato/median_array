@@ -18,13 +18,13 @@
 #define ONE             1
 #define MAX_LENGTH      20
 #define MAX_ELEMENT     100
-#define FILE_NAME       "mean_array.txt"
+#define FILE_NAME       "median_array.txt"
 #define FILE_MODE       "w"
 #define NEW_LINE        "\n"
 #define SEPARATOR_LINE  "-"
 #define PRINT_ARRAY     "Array generato: "
 #define PRINT_ELEMENT   "%d"
-#define PRINT_MEAN      "Media degli elementi dell'array: %.2f"
+#define PRINT_MEAN      "Elemento mediano dell'array: %.2f"
 
 /**
  * Assicura che ad ogni lancio il programma
