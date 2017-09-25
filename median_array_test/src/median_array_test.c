@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : median_array_test.c
- Author      : 
+ Author      : Maddalena Fossati
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
@@ -24,15 +24,19 @@ void test_length(){
 }
 
 void test_ordered(){
+
 }
 
 void test_bubble(){
+
 }
 
 void test_generate_ordered_array(){
+
 }
 
 void test_median(){
+
 }
 
 int main(void) {

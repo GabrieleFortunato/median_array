@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : median_array_main.c
- Author      : 
+ Author      : Maddalena Fossati
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
