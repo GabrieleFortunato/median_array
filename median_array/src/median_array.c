@@ -1,8 +1,8 @@
 /*
  * median_array.c
  *
- *  Created on: 25 settembre 2017
- *      Author:Maddalena Fossati
+ *  Created on:
+ *      Author:
  */
 
 #include "median_array.h"
